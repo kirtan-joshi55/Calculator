@@ -3,3 +3,5 @@ def Addition():
     b = 20
     c = a + b
     return c
+
+print("Addition" , Addition())
